@@ -1,0 +1,11 @@
+[package]
+name = "nexa-blend-importer"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description.workspace = true
+publish.workspace = true
+license.workspace = true
+
+[dependencies]
+nexa-blend-camera = { path = "../nexa-blend-camera" }

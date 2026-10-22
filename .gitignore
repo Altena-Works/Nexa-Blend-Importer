@@ -1,0 +1,8 @@
+/target/
+/dist/
+*.blend
+*.blend1
+*.pmx
+*.vmd
+__pycache__/
+*.py[cod]

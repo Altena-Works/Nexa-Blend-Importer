@@ -1,0 +1,14 @@
+[package]
+name = "nexa-blend-importer-plugin"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description.workspace = true
+publish.workspace = true
+license.workspace = true
+
+[lib]
+crate-type = ["cdylib"]
+
+[features]
+abi-audit = []
